@@ -6,8 +6,8 @@ dependencies:
   - numpy
   - pandas
   - pip
-  - pip:
-    - nbgitpuller
-    - sphinx-gallery
-    - pandas
-    - matplotlib
+  - matplotlib
+  - copy
+  - pyreadr
+  - json
+  - plotnine
