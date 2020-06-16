@@ -1,2 +1,2 @@
 # Cortes-transversales-MESAL-Javeriana
-Tutorial de R en Jupyter
+Material para el curso introductorio de cortes transversales de la maestria en economía de la salud.
