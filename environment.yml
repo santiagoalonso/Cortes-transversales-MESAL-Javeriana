@@ -7,6 +7,11 @@ dependencies:
   - pandas
   - pip
   - matplotlib
+  - plotly
+  - bqplot
+  - ipywidgets
+  - bokeh
+  - scipy
   - pyreadr
   - plotnine
   - statsmodels
