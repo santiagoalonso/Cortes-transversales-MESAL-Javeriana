@@ -7,6 +7,7 @@ dependencies:
   - pandas
   - pip
   - matplotlib
+  - seaborn
   - plotly
   - bqplot
   - ipywidgets
